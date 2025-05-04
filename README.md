@@ -59,7 +59,7 @@ The system responds with insights based on the video data and can continue the c
     ├── YouTubeInsightsAgent.py    # AI agent handling video data extraction
 ```
 
-##Creator Economy Track: User Journey and Engagement Metrics
+## Creator Economy Track: User Journey and Engagement Metrics
 
 In the creator economy, understanding audience engagement and content insights is key for creators and brands to maximize their reach and impact. This system enhances user engagement by allowing them to interact with video data in a meaningful way, asking targeted questions and receiving actionable insights.
 
